@@ -1,2 +1,6 @@
 .idea/*
 .DS_Store
+checkpoints/
+dataset/
+__pycache__/
+backup/
